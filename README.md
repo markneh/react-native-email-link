@@ -1,5 +1,7 @@
 # React Native Email Link
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/includable/react-native-email-link.svg)](https://greenkeeper.io/)
+
 An easy way to open an email app of the user's choice, based on the apps they have installed
 on their device.
 
